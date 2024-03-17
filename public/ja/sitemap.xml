@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noriyasu.obushi.com/ja/</loc>
-    <lastmod>2024-03-16T23:19:20+09:00</lastmod>
+    <loc>https://obushi.github.io/</loc>
+    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://noriyasu.obushi.com/en/"
+                href="https://obushi.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://noriyasu.obushi.com/ja/"
+                href="https://obushi.github.io/"
                 />
   </url><url>
-    <loc>https://noriyasu.obushi.com/ja/biography/</loc>
-    <lastmod>2024-03-16T23:19:20+09:00</lastmod>
+    <loc>https://obushi.github.io/biography/</loc>
+    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://noriyasu.obushi.com/en/biography/"
+                href="https://obushi.github.io/en/biography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://noriyasu.obushi.com/ja/biography/"
+                href="https://obushi.github.io/biography/"
                 />
   </url><url>
-    <loc>https://noriyasu.obushi.com/ja/contact/</loc>
-    <lastmod>2024-03-16T23:19:20+09:00</lastmod>
+    <loc>https://obushi.github.io/contact/</loc>
+    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://noriyasu.obushi.com/en/contact/"
+                href="https://obushi.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://noriyasu.obushi.com/ja/contact/"
+                href="https://obushi.github.io/contact/"
                 />
   </url><url>
-    <loc>https://noriyasu.obushi.com/ja/publications/</loc>
-    <lastmod>2024-03-16T23:19:20+09:00</lastmod>
+    <loc>https://obushi.github.io/publications/</loc>
+    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://noriyasu.obushi.com/en/publications/"
+                href="https://obushi.github.io/en/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://noriyasu.obushi.com/ja/publications/"
+                href="https://obushi.github.io/publications/"
                 />
   </url><url>
-    <loc>https://noriyasu.obushi.com/ja/categories/</loc>
+    <loc>https://obushi.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://noriyasu.obushi.com/en/categories/"
+                href="https://obushi.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://noriyasu.obushi.com/ja/categories/"
+                href="https://obushi.github.io/categories/"
                 />
   </url><url>
-    <loc>https://noriyasu.obushi.com/ja/tags/</loc>
+    <loc>https://obushi.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://noriyasu.obushi.com/en/tags/"
+                href="https://obushi.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://noriyasu.obushi.com/ja/tags/"
+                href="https://obushi.github.io/tags/"
                 />
   </url>
 </urlset>

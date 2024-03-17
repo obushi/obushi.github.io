@@ -1,7 +1,7 @@
 baseURL = 'https://obushi.github.io/'
 copyright = 'Noriyasu Obushi'
 defaultContentLanguage = 'ja'
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 enableEmoji = true
 enableGitInfo = true
 hasCJKLanguage = true
