@@ -1,5 +1,5 @@
 # Publications
-## Journals　（peer-reviewed）
+## Journals　(peer-reviewed)
 1. Noriyasu Obushi, Sohei Wakisaka, Atsushi Hiyama, Masahiko Inami. (in press). The Effect of High C-D Gain on Human Dexterity: Toward Fingertip-sized Microscopy. (in Japanese). Transactions of the Virtual Reality Society of Japan, Volume 29, No.1, Pages 1–11 (March 2024).
 1. Tatsuaki Goh, Yu Song, Takaaki Yonekura, Noriyasu Obushi, Zeping Den, Katsutoshi Imizu, Yoko Tomizawa, Yohei Kondo, Shunsuke Miyashima, Yutaro Iwamoto, Masahiko Inami, Yen-Wei Chen, Keiji Nakajima. In-Depth Quantification of Cell Division and Elongation Dynamics at the Tip of Growing Arabidopsis Roots Using 4D Microscopy, AI-Assisted Image Processing and Data Sonification. Plant and Cell Physiology, Volume 64, Issue 11, Pages 1262–1278 (November 2023).
 
