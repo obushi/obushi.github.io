@@ -1,0 +1,103 @@
+baseURL = 'https://obushi.github.io/'
+copyright = 'Noriyasu Obushi'
+defaultContentLanguage = 'ja'
+defaultContentLanguageInSubdir = true
+enableEmoji = true
+enableGitInfo = true
+hasCJKLanguage = true
+theme = 'PaperMod'
+title = 'Noriyasu Obushi'
+
+[languages]
+  [languages.ja]
+    disabled = false
+    languageCode = 'ja'
+    languageDirection = 'ltr'
+    languageName = '日本語'
+    title = '大伏 仙泰'
+    weight = 1
+    [languages.ja.menus]
+      [[languages.ja.menu.main]]
+        name = 'ホーム'
+        url = '/'
+        weight = 10
+      [[languages.ja.menu.main]]
+        name = '経歴'
+        url = 'biography/'
+        weight = 20
+      [[languages.ja.menu.main]]
+        name = '業績'
+        url = 'publications/'
+        weight = 30
+      [[languages.ja.menu.main]]
+        name = '連絡先'
+        url = 'contact/'
+        weight = 40
+    [languages.ja.params.profileMode]
+      enabled = true
+      subtitle = '2023年に東京大学大学院博士課程を修了後、東京大学先端科学技術研究センター身体情報学分野特任研究員として主に人間拡張工学やバーチャルリアリティに関する研究に従事。趣味は撮影撮影とインテリアとランニング。博士(工学)。石川県珠洲市出身。'
+      imageUrl = 'portrait.jpg'
+  [languages.en]
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Noriyasu Obushi, PhD.'
+    weight = 2
+    [languages.en.menus]
+      [[languages.en.menu.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+      [[languages.en.menu.main]]
+        name = 'Bio'
+        pageRef = 'biography/'
+        weight = 20
+      [[languages.en.menu.main]]
+        name = 'Pub'
+        pageRef = 'publications/'
+        weight = 30
+      [[languages.en.menu.main]]
+        name = 'Contact'
+        pageRef = 'contact/'
+        weight = 40
+    [languages.en.params.profileMode]
+      enabled = true
+      subtitle = 'After completing his doctoral studies at the University of Tokyo in 2023, he has been engaged in research mainly on human augmentation and virtual reality as a postdoctoral researcher in Information Somatics Laboratory of the Research Center for Advanced Science and Technology, the University of Tokyo. His hobbies include photography, interior design, and running. Raised in Suzu City, Ishikawa Prefecture, Japan.'
+      imageUrl = 'portrait.jpg'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/obushi'
+  title = 'Github'
+
+[[params.socialIcons]]
+  name = 'portraitbook'
+  url = 'https://www.portraitbook.com/ohbushi'
+  title = 'portraitbook'
+
+[[params.socialIcons]]
+  name = 'x'
+  url = 'https://x.com/ohbushi'
+  title = 'X'
+
+[[params.socialIcons]]
+  name = 'googlescholar'
+  url = 'https://scholar.google.com/citations?user=h7jPYgoAAAAJ&hl=ja'
+  title = 'Google Scholar'
+
+[[params.socialIcons]]
+  name = 'instagram'
+  url = 'https://www.instagram.com/nohbushi/'
+  title = 'Instagram'
+
+[[params.socialIcons]]
+  name = 'linkedin'
+  url = 'https://www.linkedin.com/in/obushi/'
+  title = 'LinkedIn'
+
+  showShareButtons = true
+  shareButtons = ['linkedin', 'x']

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>ショクダイオオコンニャクAR</title>
+<!-- Import the component -->
+<script
+    type="module"
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+></script>
+<script
+    nomodule
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"
+></script>
+</head>
+
+<body>
+<style>
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+  }
+  model-viewer{
+    width:100%;
+    height:100%;
+  }
+  .dot{
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.7), 0px 0px 5px 1px rgba(0, 0, 0, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+</style>
+<model-viewer ar id="prompt-demo" camera-controls touch-action="pan-y" interaction-prompt="none" src="./titan-arum.glb" alt="Titan Arum" shadow-intensity="1" ar>
+    <div class="dot" slot="finger0"></div>
+    <div class="dot" slot="finger1"></div>
+    <button slot="ar-button" style="background-color: white; border-radius: 4px; border: none; position: absolute; top: 16px; right: 16px; ">
+        ARで表示
+    </button>
+</model-viewer>
+
+<script>
+  const modelViewerPrompt = document.querySelector("#prompt-demo");
+  
+  const PROMT_MS = 3000;
+  const REPEAT_MS = 5000;
+
+  const finger0 = {
+    x: {
+      initialValue: 0.6,
+      keyframes: [
+        {frames: 1, value: 0.7},
+        {frames: 1, value: 0.5},
+        {frames: 1, value: 0.7},
+        {frames: 1, value: 0.6},
+      ]
+    },
+    y: {
+      initialValue: 0.45,
+      keyframes: [
+        {frames: 1, value: 0.4},
+        {frames: 1, value: 0.3},
+        {frames: 1, value: 0.4},
+        {frames: 1, value: 0.45},
+      ]
+    }
+  };
+
+  const finger1 = {
+    x: {
+      initialValue: 0.4,
+      keyframes: [
+        {frames: 1, value: 0.3},
+        {frames: 1, value: 0.1},
+        {frames: 1, value: 0.3},
+        {frames: 1, value: 0.4},
+      ]
+    },
+    y: {
+      initialValue: 0.55,
+      keyframes: [
+        {frames: 1, value: 0.6},
+        {frames: 1, value: 0.5},
+        {frames: 1, value: 0.6},
+        {frames: 1, value: 0.55},
+      ]
+    }
+  };
+
+  let hasInteracted = false;
+
+  const prompt = () => {
+    if (!hasInteracted) {
+      modelViewerPrompt.interact(PROMT_MS, finger0, finger1);
+      setTimeout(prompt, REPEAT_MS);
+    }
+  };
+
+  modelViewerPrompt.addEventListener('poster-dismissed', () => {
+    prompt();
+  }, {once: true});
+
+  const interacted = (event) => {
+    if (event.detail.source === 'user-interaction') {
+      hasInteracted = true;
+      modelViewerPrompt.removeEventListener('camera-change', interacted);
+    }
+  };
+
+  modelViewerPrompt.addEventListener('camera-change', interacted);
+</script>
+</body>
+</html>
