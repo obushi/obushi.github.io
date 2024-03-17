@@ -75,9 +75,9 @@ title = 'Noriyasu Obushi'
   title = 'Github'
 
 [[params.socialIcons]]
-  name = 'portraitbook'
-  url = 'https://www.portraitbook.com/ohbushi'
-  title = 'portraitbook'
+  name = 'facebook'
+  url = 'https://www.facebook.com/ohbushi'
+  title = 'facebook'
 
 [[params.socialIcons]]
   name = 'x'
