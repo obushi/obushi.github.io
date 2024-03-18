@@ -35,7 +35,7 @@ title = 'Noriyasu Obushi'
         weight = 40
     [languages.ja.params.profileMode]
       enabled = true
-      subtitle = '2023年に東京大学大学院博士課程を修了後、東京大学先端科学技術研究センター身体情報学分野特任研究員として主に人間拡張工学やバーチャルリアリティに関する研究に従事。趣味は撮影撮影とインテリアとランニング。博士(工学)。石川県珠洲市出身。'
+      subtitle = '2023年に東京大学大学院博士課程を修了後、東京大学先端科学技術研究センター身体情報学分野特任研究員として主に人間拡張工学やバーチャルリアリティに関する研究に従事。趣味は写真撮影とインテリアとランニング。博士(工学)。石川県珠洲市出身。'
       imageUrl = 'portrait.jpg'
   [languages.en]
     disabled = false
