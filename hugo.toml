@@ -50,11 +50,11 @@ title = 'Noriyasu Obushi'
         pageRef = '/'
         weight = 10
       [[languages.en.menu.main]]
-        name = 'Bio'
+        name = 'Biography'
         pageRef = 'biography/'
         weight = 20
       [[languages.en.menu.main]]
-        name = 'Pub'
+        name = 'Publications'
         pageRef = 'publications/'
         weight = 30
       [[languages.en.menu.main]]
