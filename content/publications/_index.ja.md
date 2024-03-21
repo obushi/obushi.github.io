@@ -12,23 +12,23 @@
 1. Noriyasu Obushi, Makoto Koshino. Temari and Shadow: an interactive installation combining virtual handicraft and real shadow, Virtual Reality International Conference 2018, No. 31, Pages 1–4  (April 2018).
 1. Noriyasu Obushi, Makoto Koshino. “Participatory Digital Installations for Tourism Promotion” 6th International Symposium on Technology Sustainability. (October 2016).
 
-# ポスター発表 (査読有)
+## ポスター発表 (査読有)
 1. Noriyasu Obushi, Sohei Wakisaka, Shunichi Kasahara, Katie Seaborn, Atsushi Hiyama, Masahiko Inami. MagniFinger: fingertip-mounted microscope for augmenting human perception. ACM SIGGRAPH 2019 Posters, No. 2, Pages 1–2 (July 2019).🏅Semifinalist, ACM Student Research Competition.
 
-# ポスター発表 (査読無)
+## ポスター発表 (査読無)
 1. Noriyasu Obushi, Makoto Koshino. Temari and Shadow: an interactive installation combining shadows of numerous participants and graphics of Kanazawa's handicraft, IEEE 9th International Conference on Engineering Education (ICEED2017). (November 2017).
 1. Noriyasu Obushi, Makoto Koshino. Producing an Interactive Installation of Kaga-temari Balls with Hand Sensing, IEEE 7th International Conference on Engineering Education (ICEED2015). (November 2015).
 
-# 口頭発表 (査読無)
+## 口頭発表 (査読無)
 1. 重見 和秀, 大伏 仙泰, 檜山 敦, 稲見 昌彦. 指先顕微鏡における指先の移動量に基づくリアルタイムスティッチング. 第25回日本バーチャルリアリティ学会大会. (September 2020).
 1. 大伏 仙泰, 檜山敦, 稲見昌彦. 指先顕微鏡を実現する光学系とその評価. ロボティクス・メカトロニクス　講演会2020. (April 2020).
 1. 大伏 仙泰, 廣瀬 雅治, 脇坂 崇平, 笠原 俊一, 檜山 敦, 稲見 昌彦. 微細環境下で感覚・運動機能を拡張するための指先装着型デバイス. (September 2019). 🏅日本バーチャルリアリティ学会学術奨励賞受賞.
 1. 大伏 仙泰, 越野 亮. ディジタルインスタレーションの制作. 日本経営工学会北陸支部学生研究発表会. (February 2016).
 
-# 講演
+## 講演
 1. 大伏 仙泰. ミクロ世界と身体をつなぐインターフェイス. 東京大学バーチャルリアリティ教育研究センター 先端VRドクトラルシンポジウム. (July 2021).
 
-# 受賞・競争的資金
+## 受賞・競争的資金
 1. [競争的資金]日本学術振興会特別研究員(DC1) スケール可変環境における身体性インタラクションに関する研究. 総額200万円. (April 2020–September 2023).
 1. [受賞] 学術奨励賞, 日本バーチャルリアリティ学会. (March 2020).
 1. [受賞] 凱鈿行動科技賞, 台湾国立成功大学成果発表会. (November 2019).

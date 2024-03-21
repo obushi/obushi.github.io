@@ -12,23 +12,23 @@
 1. Noriyasu Obushi, Makoto Koshino. Temari and Shadow: an interactive installation combining virtual handicraft and real shadow, Virtual Reality International Conference 2018, No. 31, Pages 1–4  (April 2018).
 1. Noriyasu Obushi, Makoto Koshino. “Participatory Digital Installations for Tourism Promotion” 6th International Symposium on Technology Sustainability. (October 2016).
 
-# Posters (peer-reviewed)
+## Posters (peer-reviewed)
 1. Noriyasu Obushi, Sohei Wakisaka, Shunichi Kasahara, Katie Seaborn, Atsushi Hiyama, Masahiko Inami. MagniFinger: fingertip-mounted microscope for augmenting human perception. ACM SIGGRAPH 2019 Posters, No. 2, Pages 1–2 (July 2019).🏅Semifinalist, ACM Student Research Competition.
 
-# Posters (non peer-reviewed)
+## Posters (non peer-reviewed)
 1. Noriyasu Obushi, Makoto Koshino. Temari and Shadow: an interactive installation combining shadows of numerous participants and graphics of Kanazawa's handicraft, IEEE 9th International Conference on Engineering Education (ICEED2017). (November 2017).
 1. Noriyasu Obushi, Makoto Koshino. Producing an Interactive Installation of Kaga-temari Balls with Hand Sensing, IEEE 7th International Conference on Engineering Education (ICEED2015). (November 2015).
 
-# Oral Presentations (non peer-reviewed)
+## Oral Presentations (non peer-reviewed)
 1. Kazuhide Shigemi, Noriyasu Obushi, Atsushi Hiyama, Masahiko Inami. Image Stitching Method for Fingertip-wearable Microscope Based on Fingertip Movement. (in Japanese) The 25th Annual Conference of the Virtual Reality Society of Japan. (September 2020).
 1. Noriyasu Obushi, Atsushi Hiyama, Masahiko Inami. Fingertip-attachable Microscope and Its Evaluation. (in Japanese) The Robotics and Mechatronics Conference 2020. (April 2020).
 1. Noriyasu Obushi, Masaharu Hirose, Sohei Wakisaka, Shunichi Kasahara, Atsushi Hiyama, Masahiko Inami. A Fingertip-worn Device toward Augmentation of Sensory and Motor Skills in Micrometer-scale Environments. (in Japanese). The 24th Annual Conference of the Virtual Reality Society of Japan. (September 2019). 🏅Young Researchers Award.
 2. Noriyasu Obushi, Makoto Koshino. Production of Digital Installations. Student Research Presentation, Japan Industrial Management Association. (February 2016).
 
-# Talks
+## Talks
 1. Noriyasu Obushi. Interface between the Micro-world and the Body. The University of Tokyo Virtual Reality Educational Research Center. (in Japanese). (July 2021).
 
-# Awards/Grants
+## Awards/Grants
 1. [Grant] Research Fellowships for Young Scientists (DC1), Japan Society for the Promotion of Science. Human Perception and Behavior in Multiple Spatial Scales. JPY 2,000,000. (April 2020–September 2023).
 2. [Award] Young Researchers Award, The Virtual Reality Society of Japan. (March 2020).
 3. [Award] Kdan Mobile Award, National Cheng Kung University Demo Day. (November 2019).
