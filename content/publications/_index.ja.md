@@ -8,6 +8,7 @@
 1. Noriyasu Obushi, Sohei Wakisaka, Shunichi Kasahara, Katie Seaborn, Atsushi Hiyama, Masahiko Inami. MagniFinger: Fingertip probe microscope with direct micro movements. Augmented Human International Conference, No. 32, Pages 1–7 (March 2019).🏅Second Best Paper Award (out of 18 papers).
 
 ## 会議 (ショートペーパー/査読有)
+1. Noriyasu Obushi, Shohei Oshiro, Yusei Imai, Chikayoshi Matsudaira, Saku Kijima, Takehiko Kanazawa, Hirokazu Tsukaya, Masahiko Inami. SkillPicker: Tweezers for Recording and Training Dexterous Operations. ACM SIGGRAPH 2024 Emerging Technologies, No. 18, Pages 1–2 (July 2024).
 1. Noriyasu Obushi, Sohei Wakisaka, Shunichi Kasahara, Katie Seaborn, Atsushi Hiyama, Masahiko Inami. MagniFinger: magnified perception by a fingertip probe microscope. ACM SIGGRAPH 2019 Emerging Technologies, No. 17, Pages 1–2 (July 2019).
 1. Noriyasu Obushi, Makoto Koshino. Temari and Shadow: an interactive installation combining virtual handicraft and real shadow, Virtual Reality International Conference 2018, No. 31, Pages 1–4  (April 2018).
 1. Noriyasu Obushi, Makoto Koshino. “Participatory Digital Installations for Tourism Promotion” 6th International Symposium on Technology Sustainability. (October 2016).
