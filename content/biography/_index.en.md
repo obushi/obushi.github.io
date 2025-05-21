@@ -1,6 +1,7 @@
 # Biography
 ## Work Experiences
-- Oct 2023– Project Researcher, Information Somatics Laboratory, Research Center for Science and Technology, The University of Tokyo
+- Apr 2025- Project Assistant Professor, Information Somatics Laboratory, Research Center for Science and Technology, The University of Tokyo
+- Oct 2023–Mar 2025 Project Researcher, Information Somatics Laboratory, Research Center for Science and Technology, The University of Tokyo
 
 ## Education
 - Apr 2020–Sep 2023 Ph.D. in Engineering, The University of Tokyo
