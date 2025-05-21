@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://obushi.github.io/en/biography/</loc>
+    <loc>http://localhost:1313/en/biography/</loc>
+    <lastmod>2025-05-21T16:15:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/biography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/biography/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
     <lastmod>2024-03-17T16:59:25+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://obushi.github.io/biography/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://obushi.github.io/en/biography/"
+                href="http://localhost:1313/en/contact/"
                 />
   </url><url>
-    <loc>https://obushi.github.io/en/contact/</loc>
-    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
+    <loc>http://localhost:1313/en/publications/</loc>
+    <lastmod>2025-05-21T16:15:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://obushi.github.io/contact/"
+                href="http://localhost:1313/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://obushi.github.io/en/contact/"
+                href="http://localhost:1313/en/publications/"
                 />
   </url><url>
-    <loc>https://obushi.github.io/en/publications/</loc>
-    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://obushi.github.io/publications/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://obushi.github.io/en/publications/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://obushi.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-05-21T16:15:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://obushi.github.io/categories/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://obushi.github.io/en/categories/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://obushi.github.io/en/</loc>
-    <lastmod>2024-03-17T16:59:25+09:00</lastmod>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://obushi.github.io/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://obushi.github.io/en/"
-                />
-  </url><url>
-    <loc>https://obushi.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://obushi.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://obushi.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

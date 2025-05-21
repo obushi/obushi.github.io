@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Noriyasu Obushi, PhD.</title>
-    <link>https://obushi.github.io/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Noriyasu Obushi, PhD.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.4</generator>
     <language>en-US</language>
     <copyright>Noriyasu Obushi</copyright>
-    <atom:link href="https://obushi.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
