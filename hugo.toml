@@ -35,7 +35,7 @@ title = 'Noriyasu Obushi'
         weight = 40
     [languages.ja.params.profileMode]
       enabled = true
-      subtitle = '2023年に東京大学大学院博士課程を修了後、東京大学先端科学技術研究センター身体情報学分野特任研究員として主に人間拡張工学やバーチャルリアリティに関する研究に従事。趣味は写真撮影とインテリアとランニング。博士(工学)。石川県珠洲市出身。'
+      subtitle = '2023年に東京大学大学院博士課程を修了後、東京大学先端科学技術研究センター身体情報学分野特任助教として主に人間拡張工学やバーチャルリアリティに関する研究に従事。趣味は写真撮影とインテリアとランニング。博士(工学)。石川県珠洲市出身。'
       imageUrl = 'portrait.jpg'
   [languages.en]
     disabled = false
@@ -63,7 +63,7 @@ title = 'Noriyasu Obushi'
         weight = 40
     [languages.en.params.profileMode]
       enabled = true
-      subtitle = 'After completing his doctoral studies at the University of Tokyo in 2023, he has been engaged in research mainly on human augmentation and virtual reality as a postdoctoral researcher in Information Somatics Laboratory of the Research Center for Advanced Science and Technology, the University of Tokyo. His hobbies include photography, interior design, and running. Raised in Suzu City, Ishikawa Prefecture, Japan.'
+      subtitle = 'After completing his doctoral studies at the University of Tokyo in 2023, he has been engaged in research mainly on human augmentation and virtual reality as a project assistant professor in Information Somatics Laboratory of the Research Center for Advanced Science and Technology, the University of Tokyo. His hobbies include photography, interior design, and running. Raised in Suzu City, Ishikawa Prefecture, Japan.'
       imageUrl = 'portrait.jpg'
 
 [markup.goldmark.renderer]
